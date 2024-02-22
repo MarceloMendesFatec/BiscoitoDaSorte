@@ -14,7 +14,7 @@ To run this project, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](/BiscoitoDaSorte/assets/Captura%20de%20tela%202024-02-22%20105237.png)
+![Screenshot 1](https://github.com/MarceloMendesFatec/BiscoitoDaSorte/blob/master/assets/Captura%20de%20tela%202024-02-22%20105237.png?raw=true)
 
 
 ## License
